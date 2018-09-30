@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://clintbuchhauser.github.io/ClickyGame/",
   "dependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.2.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
