@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "banjo.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "crash.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "dk.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "fox.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "link.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "mario.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "megaman.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "pikachu.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "rayman.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "samus.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "sonic.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "spyro.png",
+      "clicked": false
+    }
+  ]
